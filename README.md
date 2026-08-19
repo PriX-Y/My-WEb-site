@@ -1,11 +1,10 @@
 # My-WEb-site
-its my very orginal web site, very cool web site trust me is very cool my first web site made in
-html
-
+Its my first in life software project. Write in HTML + CCS in 2026 i made more my life cv then portfolio website. i think i made it enough but maybe i add something later
+Write in Cursor
 LINK: https://share.google/3ze01aR2mZTI1hYqD
 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/d1f0b76a-bc04-46c2-b488-e4e4d0ccdf95" />
 
-Pls dont click on cat!!!!!
+click on cat!!!!!
 
 I spend 10h on thc projekt hosting by netlify
