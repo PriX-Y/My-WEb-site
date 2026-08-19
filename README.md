@@ -1,5 +1,7 @@
 # My-WEb-site
-Its my first in life software project. Write in HTML + CCS in 2026 i made more my life cv then portfolio website. i think i made it enough but maybe i add something later
+Its my first in life software project.
+Write in HTML + CCS in 2026
+i made more my life cv then portfolio website. i think i made it enough but maybe i add something later if you click on cat there is easter egg, on site is my pc parts, program what i use and my project
 Write in Cursor
 LINK: https://share.google/3ze01aR2mZTI1hYqD
 
